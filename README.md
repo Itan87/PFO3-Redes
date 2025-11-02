@@ -17,6 +17,7 @@ Aunque la implementación se centra en los módulos Cliente y Servidor de Entrad
 ## Estructura
 
 PFO3/ 
+
 ├── client/ 
 │ └── client.py # Código del Cliente
 ├── server/ 
