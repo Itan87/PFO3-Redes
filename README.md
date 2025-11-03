@@ -6,6 +6,7 @@ Implementar un sistema distribuido con arquitectura Cliente-Servidor utilizando 
 ## Diagrama de Arquitectura Conceptual
 Aunque la implementación se centra en los módulos Cliente y Servidor de Entrada, el diseño completo del sistema es el siguiente:
 
+![Diagrama de arquitectura Cliente-Servidor](diagrama/PFO3.png)
 
 1.  **Clientes**: Inician la petición (Implementado por client.py).
 2.  **Balanceador de Carga (Nginx/HAProxy)**: Distribuye la carga al Servidor de Entrada.
